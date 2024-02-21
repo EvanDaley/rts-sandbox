@@ -63,7 +63,7 @@ ehthumbs.db
 /Builds/
 /ProjectSettings/UnityConnectSettings.asset
 
-/RTS\ Engine/*
+/Assets/RTS\ Engine/*
 
 # ================================== #
 # Uncomment if you're using Rider IDE #

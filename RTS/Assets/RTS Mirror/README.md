@@ -1,0 +1,1 @@
+This folder mirrors the private RTS Engine folder, and adds some extensions and overrides specific to this game.
