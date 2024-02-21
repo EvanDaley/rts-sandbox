@@ -1,0 +1,74 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ======================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ======================= #
+[Ee]xported[Oo]bj/
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.suo
+*.sln.DotSettings.user
+*.userprefs
+*.pidb
+*.pdb
+*.opendb
+*.VC.db
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# ============= #
+# Compiled files #
+# ============= #
+*.apk
+*.unitypackage
+*.app
+*.exe
+*.aex
+*.o
+*.so
+*.dll
+*.dylib
+
+# ===================== #
+# Unity3D generated meta #
+# ===================== #
+*.pidb.meta
+
+# =========================== #
+# Android generated Gradle files #
+# =========================== #
+/Build/
+/Builds/
+/ProjectSettings/UnityConnectSettings.asset
+
+/RTS\ Engine/*
+
+# ================================== #
+# Uncomment if you're using Rider IDE #
+# ================================== #
+# .idea/
+# *.sln.iml
+# *.csproj.user
+# *.pidb.user
